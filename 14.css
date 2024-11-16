@@ -1,0 +1,22 @@
+body{
+    background-color: #06283D;
+    height: 90vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz{
+    color: black;
+    text-align: center;
+    height: 60%;
+    width:340px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.quiz .choice button{
+    display: block;
+    margin-left: 70px;
+    width: 60%;
+    height: 30px;
+    margin-bottom: 10px;
+}
